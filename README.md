@@ -1,4 +1,4 @@
-# 🏗️ Relatório Gerencial de Gestão de Obras
+# Relatório Gerencial de Gestão de Obras
 
 <p align="center">
   <img src="Executivo_sg_projetos.PNG" alt="Relatório Gerencial de Gestão de Obras" width="900">
@@ -26,7 +26,7 @@
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O **Relatório Gerencial de Gestão de Obras** foi desenvolvido para demonstrar a aplicação de práticas de gestão orientadas por dados no acompanhamento de empreendimentos da construção civil.
 
@@ -36,7 +36,7 @@ A proposta evidencia como relatórios e dashboards contribuem para maior control
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Demonstrar conhecimentos em Gestão de Obras;
 * Aplicar conceitos de Business Intelligence (BI);
@@ -46,7 +46,7 @@ A proposta evidencia como relatórios e dashboards contribuem para maior control
 
 ---
 
-## 📊 Principais Recursos
+## Principais Recursos
 
 * Dashboard gerencial
 * Indicadores de desempenho (KPIs)
@@ -58,7 +58,7 @@ A proposta evidencia como relatórios e dashboards contribuem para maior control
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python
 * Pandas
@@ -70,7 +70,7 @@ A proposta evidencia como relatórios e dashboards contribuem para maior control
 
 ---
 
-## ⚙️ Fluxo da Solução
+## Fluxo da Solução
 
 ```text
 Coleta de Dados
@@ -88,15 +88,15 @@ Publicação no GitHub Pages
 
 ---
 
-## 🌐 Demonstração
+## Demonstração
 
 Acesse o relatório online:
 
-👉 **https://silvaniosg.github.io/gestao_de_obras/**
+**https://silvaniosg.github.io/gestao_de_obras/**
 
 ---
 
-## 💼 Competências Demonstradas
+## Competências Demonstradas
 
 * Gestão de Obras
 * Planejamento e Controle
@@ -110,27 +110,27 @@ Acesse o relatório online:
 
 ---
 
-## 👨‍💼 Autor
+## Autor
 
 **Silvanio Góis**
 
 **Gestor de Operações e Negócios | Business Intelligence | Data Analytics | Inteligência Artificial aplicada aos Negócios | Processos | Melhoria Contínua**
 
-🌐 **Portfólio**
+**Portfólio**
 https://www.silvaniogois.com.br/
 
-💼 **LinkedIn**
+**LinkedIn**
 https://www.linkedin.com/in/silvanio-gois/
 
-💻 **GitHub**
+**GitHub**
 https://github.com/SilvanioSG
 
 ---
 
-## 📄 Licença
+## Licença
 
 Projeto desenvolvido para fins de estudo, demonstração de portfólio e aplicação de conceitos de Gestão de Obras, Business Intelligence e Análise de Dados.
 
 ---
 
-⭐ **Se este projeto agregou valor, considere deixar uma Star no repositório.**
+**Se este projeto agregou valor, considere deixar uma Star no repositório.**
