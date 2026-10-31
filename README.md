@@ -1,7 +1,7 @@
 # Relatório Gerencial de Gestão de Obras
 
 <p align="center">
-  <img src="SG_Site.PNG" alt="Relatório Gerencial de Gestão de Obras" width="900">
+  <img src="SG_Site.PNG" alt="Relatório Gerencial de Gestão de Obras" width="400">
 </p>
 
 <p align="center">
